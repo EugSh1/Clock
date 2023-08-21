@@ -31,7 +31,7 @@ p{
 	user-select: none;
 }
 
-div{
+#divclock{
     background-color: #22261D;
     padding-top: 5px; padding-left: 5px; padding-bottom: 5px; padding-right: 5px;
     width: 300px; height: 140px;
@@ -47,4 +47,19 @@ div{
     box-shadow: 0px 0px 9px 6px rgba(34, 64, 56, 0.05);
 
     transition: 1s;
+}
+
+.container {
+    text-align: center;
+
+    -webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+  
+.element {
+    display: inline-block;
+    margin: 0 10px;
 }
