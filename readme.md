@@ -1,3 +1,3 @@
 # Clock
-My first javascript watch
+My first javascript clock
 ![Green color theme](/source/Preview.png)
